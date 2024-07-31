@@ -1,1 +1,1 @@
-# TgSliderBot
+# Telegram bot slider Bot
